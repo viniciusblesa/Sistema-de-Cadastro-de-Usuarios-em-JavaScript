@@ -13,4 +13,4 @@ E o sistema retorna na tela as informações cadastradas.
 - JavaScript
 
 ## Acessar Projeto:
-https://viniciusblesa.github.io/Sistema-de-Cadastro-de-Usuarios-em-JavaScript/
+https://viniciusblesa.github.io/CadastroDeUsuarioJS/
